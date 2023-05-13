@@ -1,0 +1,174 @@
+.hockey{
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+
+.navbar{
+    
+    text-align: center;
+    align-items: center;
+    word-spacing: 600px;
+    height: 40px;  
+    padding-top: 20px;
+    
+    overflow: hidden;
+    background-color:white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    
+
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.card1{
+  
+    text-align: center;
+
+    /* margin: 10px; */
+}
+.text{
+    font-size: large;
+    text-align: center;
+    margin: 20px;
+}
+.align{
+    text-align: center;
+    
+    
+}
+.items{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 100px;
+    padding:10px;
+    margin-top: 90px;
+   
+
+   
+}
+.items1{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 100px;
+    padding:10px;
+    
+}
+.colour{
+    width: 100%;
+    border-width: 2px;
+    border-radius: 30px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+.bottom{
+    text-align: center;
+    margin: 30px;
+}
+.image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0%;
+    width: 100%;
+}
+.ice{
+    margin: 20px;
+}
+.ice1{
+    margin-bottom: 100px;
+
+}
+.top{
+    margin: 50px;
+}
+.thing{
+    text-align: left;
+}
+.first{
+
+    display: flex;
+    margin-left: 180px;
+    margin-right: 100px;
+
+}
+.second{
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+    padding-top: 100px;
+    
+}
+.third{
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+    padding-top: 100px;
+}
+.fourth{
+    width: 400px;
+    height: 500px;
+    padding: 40px;
+}
+.nothing{
+    margin-bottom: 20px;
+    font-weight: 200px;
+    font-size:larger;   
+}
+.inter{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: large;
+}
+span{
+    text-decoration: underline;
+}
+.remote{
+    font-size: large;
+}
+.thing{
+    margin-bottom: 20px;
+    font-weight: 200px;
+    font-size:larger; 
+}
+.pad{
+    display: flex;
+    margin: 20px;
+    padding-top: 20px;
+}
+.pad2   {
+    display: flex;
+    margin: 20px;
+}
+img{
+    margin-right: 20px;
+}
+.nothing1{
+    margin-bottom: 20px;
+    font-weight: 200px;
+    font-size:larger;
+    margin-top: 60px;   
+
+}
+.bat{
+    text-decoration: none;
+    font-size: large;
+    width: 150px;
+    background-color:rgba(88, 82, 82, 0.674) ;
+    color: white;
+    
+  
+}
+.japan{
+    margin-bottom: 20px;
+}
+.delhi{
+    margin-bottom: 20px;
+}
